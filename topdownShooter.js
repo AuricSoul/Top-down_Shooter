@@ -25,7 +25,7 @@ var entitys = new Array();
 
 function init() {
   
-    entitys[0] = new sprite(250,250, "res/cow.png");
+    entitys[0] = new sprite(250,250, "cow.jpe");
     
     gameloop();
 }
